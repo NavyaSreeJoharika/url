@@ -38,3 +38,5 @@ const (
 	reserved
 	filled
 )
+
+var orders = []order{}
